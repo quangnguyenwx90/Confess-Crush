@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'gửi người đang xem đoạn chat này :3',
     introDesc: `nhân gian vốn lắm bộn bề , sao không bỏ hết rồi về bên nhau`,
     btnIntro: '^^HiHi^^',
     title: 'làm người eo teo nhó 🥰',
